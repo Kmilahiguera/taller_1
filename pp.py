@@ -10,3 +10,4 @@ b=int(b)
 
 dato=random.randint(a,b)
 print(dato)
+a=a
